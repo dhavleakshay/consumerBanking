@@ -16,6 +16,6 @@ public class App {
 	 */
     public static void main( String[] args )
     {
-        System.out.println( "Devops training!" );
+        System.out.println( "Dev training!" );
     }
 }
